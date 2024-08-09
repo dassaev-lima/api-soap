@@ -1,0 +1,20 @@
+# Ignorar o diretório node_modules
+node_modules/
+
+# Ignorar arquivos temporários do sistema
+*.log
+*.tmp
+*.swp
+
+# Ignorar arquivos gerados pelo editor
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar arquivos de build
+dist/
+build/
