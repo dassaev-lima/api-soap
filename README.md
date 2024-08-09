@@ -16,6 +16,8 @@ Este projeto fornece um serviço SOAP para calcular o Índice de Massa Corporal 
    ```bash
    pip install spyne
 
+   pip install lxml
+
    ```
 
    Certifique-se de que o `soap` está instalado. Navegue até o diretório do cliente e instale a dependência `soap` usando o `npm`:
